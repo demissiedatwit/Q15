@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch App",
+        "request": "launch",
+        "mainClass": "/Users/conceptualdanny/Desktop/Everything/MetaPrograms/WIT/Fall 2023/Computer Science II/Q15/Q15/src/Main.java",
+        "vmArgs": "--module-path /Users/conceptualdanny/Downloads/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml"
+      }
+    ]
+  }
+  
